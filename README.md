@@ -10,9 +10,7 @@
 ✅ API-based architecture for smooth communication
 ✅ Deployed on Hugging Face Spaces
 
-📌 Demo
-🔗 Live App: Click here to access
-🎥 Video Demo: Click here to watch
+
 
 📌 Installation Guide
 🔹 1. Clone the Repository
@@ -61,8 +59,6 @@ POST	/generate_tts	Converts summary to Hindi speech
 4️⃣ Click Deploy → Wait for build to finish
 5️⃣ App is live! 🎉
 
-📌 Contributors
-👨‍💻 Your Name - GitHub Profile
 
 📌 License
 This project is open-source and available under the MIT License.
