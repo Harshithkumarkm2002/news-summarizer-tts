@@ -11,7 +11,6 @@
 ✅ Deployed on Hugging Face Spaces
 
 
-
 📌 Installation Guide
 🔹 1. Clone the Repository
     
@@ -58,6 +57,7 @@ POST	/generate_tts	Converts summary to Hindi speech
 3️⃣ Upload your files (app.py, api.py, utils.py, requirements.txt)
 4️⃣ Click Deploy → Wait for build to finish
 5️⃣ App is live! 🎉
+
 
 
 📌 License
